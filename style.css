@@ -1,0 +1,19 @@
+.heading{
+border-radius: 75%;
+box-shadow: 5px 5px 5px darkblue;
+}
+
+.footer{
+    bottom: 0;
+    position: fixed;
+    background-color: dodgerblue;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    color: ghostwhite;
+}
+
+canvas{
+    border: 10px dashed black;
+ border-radius: 25px;
+}
